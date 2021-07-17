@@ -1,0 +1,30 @@
+C:\Users\student\Desktop\First\bin\Debug\First.exe.config
+C:\Users\student\Desktop\First\bin\Debug\First.exe
+C:\Users\student\Desktop\First\bin\Debug\First.pdb
+C:\Users\student\Desktop\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\First\obj\Debug\First.Form1.resources
+C:\Users\student\Desktop\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\student\Desktop\First\obj\Debug\First.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\First\obj\Debug\First.exe
+C:\Users\student\Desktop\First\obj\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\bin\Debug\First.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.exe
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\bin\Debug\First.exe
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\bin\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.Form1.resources
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\kimsy\OneDrive\바탕 화면\새 폴더 (1)\새 폴더\First (2)\First\obj\Debug\First.csproj.GenerateResource.Cache
+C:\Users\kimsy\OneDrive\바탕 화면\First - 껌뻑거림 해결\bin\Debug\First.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\First - 껌뻑거림 해결\obj\Debug\First.exe
+C:\Users\kimsy\OneDrive\바탕 화면\First - 껌뻑거림 해결\obj\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\bin\Debug\First.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\bin\Debug\First.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\bin\Debug\First.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.Form1.resources
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.Properties.Resources.resources
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\First(변형) - 빨간 점 찍기\obj\Debug\First.csproj.GenerateResource.Cache
