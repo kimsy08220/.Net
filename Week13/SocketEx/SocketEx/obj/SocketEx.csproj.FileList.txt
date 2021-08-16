@@ -1,0 +1,5 @@
+bin\Debug\SocketEx.exe
+bin\Debug\SocketEx.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SocketEx.exe
+obj\Debug\SocketEx.pdb

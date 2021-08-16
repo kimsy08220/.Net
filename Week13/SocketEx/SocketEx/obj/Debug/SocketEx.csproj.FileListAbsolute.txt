@@ -1,0 +1,20 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+C:\Users\student\Desktop\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+C:\Users\student\Desktop\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+C:\Users\student\Desktop\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+C:\Users\student\Desktop\SocketEx\SocketEx\obj\Debug\SocketEx.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\SocketEx\SocketEx\obj\Debug\SocketEx.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\SocketEx\SocketEx\obj\Debug\SocketEx.csprojResolveAssemblyReference.cache
