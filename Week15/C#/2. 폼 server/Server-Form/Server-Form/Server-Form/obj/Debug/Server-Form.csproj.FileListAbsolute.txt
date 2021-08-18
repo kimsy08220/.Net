@@ -1,0 +1,14 @@
+C:\Users\kimsy\OneDrive\바탕 화면\Server-Form\bin\Debug\Server-Form.exe.config
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\bin\Debug\Server-Form.exe.config
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\bin\Debug\Server-Form.exe
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\bin\Debug\Server-Form.pdb
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server-Form.csproj.AssemblyReference.cache
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server_Form.Form1.resources
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server_Form.Properties.Resources.resources
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server-Form.csproj.GenerateResource.cache
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server-Form.csproj.CoreCompileInputs.cache
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server-Form.exe
+C:\Users\김수연이현직\Desktop\Server-Form\Server-Form\obj\Debug\Server-Form.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\Server-Form\Server-Form\Server-Form\bin\Debug\Server-Form.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\Server-Form\Server-Form\Server-Form\obj\Debug\Server-Form.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\Server-Form\Server-Form\Server-Form\obj\Debug\Server-Form.pdb

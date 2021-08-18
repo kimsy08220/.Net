@@ -1,0 +1,30 @@
+C:\Users\student\Desktop\20163118\20163118\bin\Debug\20163118.exe.config
+C:\Users\student\Desktop\20163118\20163118\bin\Debug\20163118.exe
+C:\Users\student\Desktop\20163118\20163118\bin\Debug\20163118.pdb
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\20163118.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\_20163118.Form1.resources
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\_20163118.Properties.Resources.resources
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\20163118.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\20163118.exe
+C:\Users\student\Desktop\20163118\20163118\obj\Debug\20163118.pdb
+C:\Users\student\Desktop\ver2\20163118\20163118\bin\Debug\20163118.exe.config
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\20163118.exe
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\20163118.pdb
+C:\Users\student\Desktop\ver2\20163118\20163118\bin\Debug\20163118.exe
+C:\Users\student\Desktop\ver2\20163118\20163118\bin\Debug\20163118.pdb
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\20163118.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\_20163118.Form1.resources
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\_20163118.Properties.Resources.resources
+C:\Users\student\Desktop\ver2\20163118\20163118\obj\Debug\20163118.csproj.GenerateResource.Cache
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\bin\Debug\20163118.exe.config
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\bin\Debug\20163118.exe
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\bin\Debug\20163118.pdb
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\_20163118.Form1.resources
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\_20163118.Properties.Resources.resources
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\20163118.csproj.GenerateResource.cache
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\20163118.csproj.CoreCompileInputs.cache
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\20163118.exe
+C:\Users\김수연이현직\Desktop\닷넷 족보\기말고사\chatting server and client program 구현\예시코드\ver2\20163118\20163118\obj\Debug\20163118.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\2.2 폼server_폼client 채팅 프로그램 김상재\예시코드\ver2\20163118\20163118\bin\Debug\20163118.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\2.2 폼server_폼client 채팅 프로그램 김상재\예시코드\ver2\20163118\20163118\obj\Debug\20163118.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\2. 폼 server\2.2 폼server_폼client 채팅 프로그램 김상재\예시코드\ver2\20163118\20163118\obj\Debug\20163118.pdb

@@ -1,0 +1,43 @@
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\student\Desktop\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\echo\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\student\Desktop\echo\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\student\Desktop\echo\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.exe.config
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.exe
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.pdb
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.csproj.AssemblyReference.cache
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.exe
+C:\Users\김수연이현직\Desktop\닷넷 실습\Week13\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\1. 콘솔 server\1.2 콘솔server_콘솔client(1대多)\TCPEchoServer - Thread\bin\Debug\TCPEchoServer.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\1. 콘솔 server\1.2 콘솔server_콘솔client(1대多)\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 기말고사\닷넷 기말고사\C#\1. 콘솔 server\1.2 콘솔server_콘솔client(1대多)\TCPEchoServer - Thread\obj\Debug\TCPEchoServer.pdb

@@ -1,0 +1,16 @@
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\bin\Debug\Client.exe
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\bin\Debug\Client.pdb
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\Qpang\Desktop\닷넷 예상\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\bin\Debug\Client.exe
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\bin\Debug\Client.pdb
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Client\Client\obj\x86\Debug\Client.pdb

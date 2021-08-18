@@ -1,0 +1,25 @@
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\실습과제 2 - Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.csprojResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\Echo Server Client\2019\변창언-190529_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\2- 변창언-190529_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\2- 변창언-190529_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\[ C# 통신실습예제들\C# Console based Echo Server Client\2- 변창언-190529_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.pdb
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\2- 변창언_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\2- 변창언_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.exe
+C:\Users\Professor\Desktop\[C# 네트워크프로그래밍 - 교육자료\2- 변창언_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\2- 변창언_TcpServerEx\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.csprojResolveAssemblyReference.cache
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe.config
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.exe
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\bin\Debug\190529_TcpServerEx.pdb
+C:\Users\kimsy\OneDrive\바탕 화면\닷넷 실습\Week13\TCPEchoServer\190529_TcpServerEx\obj\Debug\190529_TcpServerEx.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Qpang\Desktop\닷넷 예상\기본적인 통신\Server\Server\bin\Debug\Server.exe
+C:\Users\Qpang\Desktop\닷넷 예상\기본적인 통신\Server\Server\bin\Debug\Server.pdb
+C:\Users\Qpang\Desktop\닷넷 예상\기본적인 통신\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Qpang\Desktop\닷넷 예상\기본적인 통신\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Qpang\Desktop\닷넷 예상\기본적인 통신\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\bin\Debug\Server.exe
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\bin\Debug\Server.pdb
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\김수연이현직\Desktop\닷넷\닷넷기말\기말족보\닷넷족보\콘솔server_폼client\Server\Server\obj\x86\Debug\Server.pdb
